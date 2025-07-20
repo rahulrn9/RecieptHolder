@@ -2,7 +2,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 # === Constants ===
-GCREDS_PATH = "recieptloader-1c1724bc0d1e.json"
+GCREDS_PATH = "receipt-sync-bot-96163decdcdb.json"
 SPREADSHEET_ID = "1V_FYPmg5-1rCpv4girz6CksQKG1qSS7F3yO_3pLAjDw"
 SHEET_NAME = "Receipt Data Sync"
 
