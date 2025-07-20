@@ -1,0 +1,9 @@
+streamlit
+pydantic
+pandas
+pytesseract
+opencv-python
+pdfplumber
+matplotlib
+seaborn
+Pillow

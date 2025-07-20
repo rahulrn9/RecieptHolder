@@ -1,0 +1,8 @@
+Vendor: FreshMart
+Date: 2024-12-15
+Total Amount: ₹839.50
+Items:
+- Rice 5kg - ₹450
+- Oil 1L - ₹160
+- Biscuits - ₹80
+- Milk - ₹149.50
